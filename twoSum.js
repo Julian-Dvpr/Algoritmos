@@ -1,5 +1,5 @@
-var twoSum = function (nums, target) {
 
+var twoSum = function (nums, target) {
   
   for (let index = 0; index < nums.length; index++) {
     var diff = target - nums[index];
